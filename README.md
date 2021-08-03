@@ -1,4 +1,4 @@
 # PicSome
-A eCommerce replica
+An eCommerce replica
 <br>
 Deployed app: https://picsome.vercel.app/
